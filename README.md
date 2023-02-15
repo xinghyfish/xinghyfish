@@ -2,7 +2,7 @@
 - 👀 I’m interested in writing code 💻, dancing 💃, listening to music 🎵 and watching movies 🎬
 - 🌱 I’m currently learning Cython, Python, Java and C.
 - 💞️ I’m looking to collaborate on MORE.
-- 📫 How to reach me: xinghy.fish@qq.com OR hyxing@stu.suda.edu.cn
+- 📫 How to reach me: xosmos@foxmail.com OR hyxing@stu.suda.edu.cn
 
 <!---
 xinghyfish/xinghyfish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
